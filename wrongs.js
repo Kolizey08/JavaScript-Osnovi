@@ -1,0 +1,10 @@
+let age = year - yearBirth
+let year = age - yearBirth
+let coutFamil = mayBrother + maySister
+let count = countEuro * 1000
+let dollar = countDollar * 2.5
+let btc = countBTC / 10000
+let travel = countTravel / countDollar
+let coutFamily = mayBrother - maySister
+let mayAge = 0 / age
+let number = 35 - age
